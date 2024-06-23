@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ganeshastatue" size="1.000000 1.777778" />
+    <ImageTarget name="angkorwattemple" size="1.000000 1.777778" />
+  </Tracking>
+</QCARConfig>
